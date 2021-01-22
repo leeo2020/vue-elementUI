@@ -43,7 +43,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .lx-aside{
   width:150px;
   height:100%;
